@@ -60,3 +60,15 @@ Government Policies and Regulations: Alcohol sales are heavily influenced by gov
   In summary, the sale of alcohol varies geographically due to a complex interplay of cultural, economic, regulatory, social, and health-related factors. Understanding these influences is crucial for designing effective interventions to address alcohol-related harms and promote public health.
 
 - **Visualization Discussion:** After analyzing ChatGPT's response to our question, I think our visualizations could be used as an introduction or explanation to many of the points made in the article. The article certainly goes into further depth when explaining the response to our question. It gives examples that can be found in our visualizations without outside context. With that being said, I do think that our visualizations could in fact be used in the article and relate with the right outside context, examples, and explanations.
+
+## References
+
+  “Social and Cultural Aspects of Drinking.” Social and Cultural Aspects of Drinking - Introduction, www.sirc.org/publik/drinking3.html#:~:text=Societies%20with%20generally%20positive%20beliefs,’%2C%20’dry’%2C%20’. Accessed 24 Apr. 2024. 
+
+  Park, Seung Ha, and Dong Joon Kim. “Global and Regional Impacts of Alcohol Use on Public Health: Emphasis on Alcohol Policies.” Clinical and Molecular Hepatology, U.S. National Library of Medicine, Oct. 2020, www.ncbi.nlm.nih.gov/pmc/articles/PMC7641561/#:~:text=The%20proportions%20of%20alcohol%2Dattributable,of%20DALYs)%20%5B9%5D.
+  
+  Ratliff, Shane. “Alcohol Beverage Industry Economic Impact.” The Alcohol Beverage Industry: An Economic Engine, fourloko.com/alcohol-beverage-economic-impact/. Accessed 24 Apr. 2024. 
+
+  “Excessive Drinking Is Draining the U.S. Economy.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 Feb. 2024, www.cdc.gov/alcohol/features/excessive-drinking.html#:~:text=However%2C%20most%20of%20the%20costs,to%20excessive%20alcohol%20use%20(5.
+  
+  Timothy, Dallen J., et al. “Food and Drink Tourism.” SAGE Publications Ltd, 11 Apr. 2024, uk.sagepub.com/en-gb/eur/food-and-drink-tourism/book240395. 
