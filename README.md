@@ -1,4 +1,5 @@
 # Final-Project
+This is a repository for our final course project of MGT 4250 at Elon University
 
 https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
