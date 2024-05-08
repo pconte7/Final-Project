@@ -16,9 +16,13 @@ Our Data: https://data.world/fivethirtyeight/alcohol-consumption
 
 Columns: 
   Country: this column includes all the countries involved in the curvy
+  
   Beer_Servings: average servings of beer per person
+  
   Spirit_Servings: average servings of spirits per person
+  
   Wine_Servings: average servings of wine per person
+  
   Total_Litres_of_Pure_Alcohol: Average liters of pure alcohol per person
 
 Source: World Health Organisation, Global Information System on Alcohol and Health (GISAH), 2010
