@@ -6,8 +6,6 @@
 
 This repository is for the course project of MGT 4250 (Data Visualization and Storytelling) at Elon University.
 
-https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-
 ## Project Description
 - **Visualization:** https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 - **Question:** How does the sale of alcohol vary by geographical location? What are the other key factors that influence the sale of alcohol?
