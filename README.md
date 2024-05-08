@@ -1,7 +1,10 @@
 # Final-Project
 
 ## Visualization Application and Repository
-This repository is for the course project of MGT 4250 (Data Visualization and Storytelling) at Elon University
+
+### Authors: Patrick Conte (pconte@elon.edu) and Pierce Stuermann (pstuermann@elon.edu)
+
+This repository is for the course project of MGT 4250 (Data Visualization and Storytelling) at Elon University.
 
 https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
