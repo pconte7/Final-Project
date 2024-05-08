@@ -1,4 +1,4 @@
-# Final-Project
+# Data Visualization and Storytelling Final Project 
 
 ## Visualization Application and Repository
 
