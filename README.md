@@ -59,7 +59,7 @@ Government Policies and Regulations: Alcohol sales are heavily influenced by gov
 
   In summary, the sale of alcohol varies geographically due to a complex interplay of cultural, economic, regulatory, social, and health-related factors. Understanding these influences is crucial for designing effective interventions to address alcohol-related harms and promote public health.
 
-- **Visualization Discussion:** After analyzing ChatGPT's response to our question, I think our visualizations could be used as an introduction or explanation to many of the points made in the article. The article certainly goes into further depth when explaining the response to our question. It gives examples that can be found in our visualizations without outside context. With that being said, I do think that our visualizations could in fact be used in the article and relate with the right outside context, examples, and explanations.
+- **Visualization Discussion:** After analyzing ChatGPT's response to our question, I think our visualizations could be used as an introduction or explanation to many of the points made in the article. The article certainly goes into further depth when explaining the response to our question. It gives examples that can be found in our visualizations without outside context. With that being said, I do think that our visualizations could in fact be used in the article and relate with the right context, examples, and explanations.
 
 ## References
 
