@@ -7,24 +7,24 @@ https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:languag
 
 ## Project Description
 - Question: How does the sale of alcohol vary by geographical location? What are the other key factors that influence the sale of alcohol?
-- When devising ways to understand alcohol's importance and impact on the world, we can dive into several more in-depth sections. The first topic that comes to mind is cultural differences. Some countries have varying attitudes toward alcohol consumption. Bringing awareness through visualizations displaying areas that may be more sensitive to people or tourists consuming alcohol could help prevent future incidents from occurring. Secondly, being that alcohol is a poison, health implications go hand in hand with it. Through the use of visualizations, specific areas that may be susceptible to having higher alcohol consumption patterns can receive more support and intervention and recovery programs. Next, remember to account for the legal and regulatory considerations. A better understanding of the local laws and regulations could be crucial for compliance in the area. Moving forward into the social and economic implications of alcohol and its impact across the globe. Some cities and regions that are more relaxed about their alcohol consumption policy have a lower productivity level and a higher burden on the medical system, which can be seen through several visualizations. Finally, the last topic of discussion will be the relationship between alcohol tourism and travel. We can show through alcohol sales in certain regions how sales would be higher at specific tourist destinations. With all of these reasons, through visualizations, we can show how alcohol sales can change around the world, given these factors.
+- Importance: When devising ways to understand alcohol's importance and impact on the world, we can dive into several more in-depth sections. The first topic that comes to mind is cultural differences. Some countries have varying attitudes toward alcohol consumption. Bringing awareness through visualizations displaying areas that may be more sensitive to people or tourists consuming alcohol could help prevent future incidents from occurring. Secondly, being that alcohol is a poison, health implications go hand in hand with it. Through the use of visualizations, specific areas that may be susceptible to having higher alcohol consumption patterns can receive more support and intervention and recovery programs. Next, remember to account for the legal and regulatory considerations. A better understanding of the local laws and regulations could be crucial for compliance in the area. Moving forward into the social and economic implications of alcohol and its impact across the globe. Some cities and regions that are more relaxed about their alcohol consumption policy have a lower productivity level and a higher burden on the medical system, which can be seen through several visualizations. Finally, the last topic of discussion will be the relationship between alcohol tourism and travel. We can show through alcohol sales in certain regions how sales would be higher at specific tourist destinations. With all of these reasons, through visualizations, we can show how alcohol sales can change around the world, given these factors.
 
 
 ## Data Description
 
-Our Data: https://data.world/fivethirtyeight/alcohol-consumption
+- Our Data: https://data.world/fivethirtyeight/alcohol-consumption
 
 Columns: 
   
-  Country: this column includes all the countries involved in the curvy
+  - Country: this column includes all the countries involved in the curvy
   
-  Beer_Servings: average servings of beer per person
+  - Beer_Servings: average servings of beer per person
   
-  Spirit_Servings: average servings of spirits per person
+  - Spirit_Servings: average servings of spirits per person
   
-  Wine_Servings: average servings of wine per person
+  - Wine_Servings: average servings of wine per person
   
-  Total_Litres_of_Pure_Alcohol: Average liters of pure alcohol per person
+  - Total_Litres_of_Pure_Alcohol: Average liters of pure alcohol per person
 
 Source: World Health Organisation, Global Information System on Alcohol and Health (GISAH), 2010
 
