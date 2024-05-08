@@ -1,14 +1,13 @@
 # Final-Project
-This is a repository for our final course project of MGT 4250 at Elon University
+
+## Visualization Application and Repository
+This repository is for the course project of MGT 4250 (Data Visualization and Storytelling) at Elon University
 
 https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Project Description
-Question: How does the sale of alcohol vary by geographical location? What are the other key factors that influence the sale of alcohol?
-
-  When devising ways to understand alcohol's importance and impact on the world, we can dive into several more in-depth sections. The first topic that comes to mind is cultural differences. Some countries have varying attitudes toward alcohol consumption. Bringing awareness through visualizations displaying areas that may be more sensitive to people or tourists consuming alcohol could help prevent future incidents from occurring.
-  Secondly, being that alcohol is a poison, health implications go hand in hand with it. Through the use of visualizations, specific areas that may be susceptible to having higher alcohol consumption patterns can receive more support and intervention and recovery programs. Next, remember to account for the legal and regulatory considerations. A better understanding of the local laws and regulations could be crucial for compliance in the area. Moving forward into the social and economic implications of alcohol and its impact across the globe. Some cities and regions that are more relaxed about their alcohol consumption policy have a lower productivity level and a higher burden on the medical system, which can be seen through several visualizations.
-  Finally, the last topic of discussion will be the relationship between alcohol tourism and travel. We can show through alcohol sales in certain regions how sales would be higher at specific tourist destinations. With all of these reasons, through visualizations, we can show how alcohol sales can change around the world, given these factors.
+- Question: How does the sale of alcohol vary by geographical location? What are the other key factors that influence the sale of alcohol?
+- When devising ways to understand alcohol's importance and impact on the world, we can dive into several more in-depth sections. The first topic that comes to mind is cultural differences. Some countries have varying attitudes toward alcohol consumption. Bringing awareness through visualizations displaying areas that may be more sensitive to people or tourists consuming alcohol could help prevent future incidents from occurring. Secondly, being that alcohol is a poison, health implications go hand in hand with it. Through the use of visualizations, specific areas that may be susceptible to having higher alcohol consumption patterns can receive more support and intervention and recovery programs. Next, remember to account for the legal and regulatory considerations. A better understanding of the local laws and regulations could be crucial for compliance in the area. Moving forward into the social and economic implications of alcohol and its impact across the globe. Some cities and regions that are more relaxed about their alcohol consumption policy have a lower productivity level and a higher burden on the medical system, which can be seen through several visualizations. Finally, the last topic of discussion will be the relationship between alcohol tourism and travel. We can show through alcohol sales in certain regions how sales would be higher at specific tourist destinations. With all of these reasons, through visualizations, we can show how alcohol sales can change around the world, given these factors.
 
 
 ## Data Description
