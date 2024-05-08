@@ -16,6 +16,7 @@ Question: How does the sale of alcohol vary by geographical location? What are t
 Our Data: https://data.world/fivethirtyeight/alcohol-consumption
 
 Columns: 
+  
   Country: this column includes all the countries involved in the curvy
   
   Beer_Servings: average servings of beer per person
