@@ -12,7 +12,10 @@ https://public.tableau.com/views/FinalProject_17151090589020/Dashboard1?:languag
 
 ## Data Description
 
-- Our Data: https://data.world/fivethirtyeight/alcohol-consumption
+Data Instructions: 
+  - Our data can be downloaded from Data World. The link below is a direct path to the data file we used to make our three visualizations.
+    
+https://data.world/fivethirtyeight/alcohol-consumption
 
 Columns: 
   
